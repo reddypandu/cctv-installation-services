@@ -11,12 +11,12 @@ a:focus {
     text-decoration: none; 
 }
 a:focus, a:hover { 
-    color: #e4002b; 
+    color: #007bff; 
     text-decoration: none; 
 }
 a, button, input { 
     outline: medium none; 
-    color: #e4002b; 
+    color: #007bff; 
 }
 ol, ul{ 
     padding: 0; 
@@ -36,17 +36,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #e4002b; 
+    background: #007bff; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #e4002b; 
+    background: #007bff; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #e4002b; 
+    background: #007bff; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -497,12 +497,12 @@ ul.ttm-our-location-list li i,
 .coupon_toggle .coupon_code:before,
 .featured-imagebox-portfolio-style1 .featured-title h5 a:hover,
 .ttm-blog-classic .ttm-blog-classic-content blockquote:before{
-  color: #e4002b;
+  color: #007bff;
 }
 
 h1.ttm-textcolor-skincolor, h2.ttm-textcolor-skincolor, h3.ttm-textcolor-skincolor, 
 h4.ttm-textcolor-skincolor, h5.ttm-textcolor-skincolor, h6.ttm-textcolor-skincolor {
-  color: #e4002b !important;
+  color: #007bff !important;
 }
 
 /** Skin-bg-color **/
@@ -575,7 +575,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .services-slide.owl-theme .owl-controls .owl-nav div:hover,
 .featured-imagebox-team.style2:hover .ttm-team-box-view-overlay,
 .color-trigger{
-  background-color: #e4002b;
+  background-color: #007bff;
 }
 
 /** Skin-border-color **/
@@ -615,7 +615,7 @@ input[type="color"]:focus,
 .ttm-tabs ul.tabs li.active a,
 .ttm-blog-classic .ttm-blog-classic-content  blockquote,
 .ttm-header-icons .ttm-header-search-link a:hover{ 
-    border-color: #e4002b !important;
+    border-color: #007bff !important;
 }
 .ttm-search-overlay,
 #site-header-menu #site-navigation .menu > ul,
@@ -623,13 +623,13 @@ input[type="color"]:focus,
 .ttm-rounded-shadow-box, div.product ul.tabs li.active a:before,
 .coupon_toggle .coupon_code,
 #payment .payment_box{
-    border-top-color: #e4002b !important; 
+    border-top-color: #007bff !important; 
 }
 .featured-imagebox-portfolio.ttm-box-view-top-image:hover .ttm-box-bottom-content:before{
-  border-color: transparent transparent #e4002b transparent;
+  border-color: transparent transparent #007bff transparent;
 }
 .ttm-search-overlay .w-search-form-row:before,
-.testimonials.style2 .testimonial-content{ border-bottom-color: #e4002b !important; }
+.testimonials.style2 .testimonial-content{ border-bottom-color: #007bff !important; }
 
 
 /** 2.DarkGrey-color **/
@@ -2238,11 +2238,11 @@ ul.ttm-list {
     line-height: 17px;
     text-transform: uppercase;
     font-weight: 500; 
-	background-color:#e4002b !important;}
+	background-color:#007bff !important;}
 	
 	.btn-services:hover{padding: 12px 30px; color:#fff !important;
     font-size: 16px;
     line-height: 17px;
     text-transform: uppercase;
     font-weight: 500; 
-	background-color:#e4002b !important;}
+	background-color:#007bff !important;}
