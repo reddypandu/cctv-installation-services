@@ -503,8 +503,9 @@
 	    height: 100%;
 	    width: 100%;
 	    top: 33px;
-	    left: 310px !important;
+	    /* left: 310px !important; */
 	    margin : 0;
+		right: -90vw;
 	}
 	.ttm-menu-toggle .toggle-block {
 	    position: absolute;
